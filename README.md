@@ -54,8 +54,6 @@
 
 ###
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=50&section=footer&reversal=false&text=nothing%20to%20see%20here&fontSize=30&fontColor=8B8982&fontAlign=50&fontAlignY=75&stroke=-&strokeWidth=0&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&color=DDA448"  />
-</div>
+<div class="tenor-gif-embed" data-postid="27213862" data-share-method="host" data-aspect-ratio="0.61875" data-width="100%"><a href="https://tenor.com/view/cat-breakdance-fast-fast-cat-dance-gif-27213862">Cat Breakdance Fast Fast Cat Dance GIF</a>from <a href="https://tenor.com/search/cat+breakdance+fast-gifs">Cat Breakdance Fast GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ###
