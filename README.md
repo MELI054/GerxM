@@ -52,8 +52,3 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=GerxM.GerxM&left_color=gray&right_color=forestgreen&left_text=People%20that%20came%20here"  />
 </div>
 
-###
-
-<div class="tenor-gif-embed" data-postid="27213862" data-share-method="host" data-aspect-ratio="0.61875" data-width="100%"><a href="https://tenor.com/view/cat-breakdance-fast-fast-cat-dance-gif-27213862">Cat Breakdance Fast Fast Cat Dance GIF</a>from <a href="https://tenor.com/search/cat+breakdance+fast-gifs">Cat Breakdance Fast GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
-###
